@@ -1,0 +1,374 @@
+ .u-section-1 {
+  background-image: url("../images/contact-us-pattern-1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 395px;
+}
+
+.u-section-1 .u-list-1 {
+  grid-template-rows: auto;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-template-columns: 100%;
+  grid-gap: 0px 0px;
+  min-height: 396px;
+  grid-auto-columns: 100%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 213px;
+  width: 213px;
+  background-image: url("../images/db164c03fb249f8b512b0acd1eb1e021ae5d4a86111b7a960ee7abe6385988fe0eeee309a94d549d76a629d16ece4a911a63d25dc6ed46e0d2c39f_1280.jpg");
+  background-position: 50% 50%;
+  transition-duration: 0.5s;
+  margin: 4px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 16px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  font-weight: 700;
+  padding: 0;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-2 {
+  height: 213px;
+  width: 213px;
+  background-image: url("../images/9fe4ffd4b6f1bd2d8dff9a6b3180734c229036a463462a3941a485b8e5e04317b1926201b873a2b56b6cf85b1b3051ca8752c71b5ce1e642f99d36_1280.jpg");
+  background-position: 50% 50%;
+  transition-duration: 0.5s;
+  margin: 4px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 16px 0 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-3 {
+  height: 213px;
+  width: 213px;
+  background-image: url("../images/053395456d8fc3aeac31a90a1b3b2e581366039ff9c29b20c660b269f5c9bc920d18f2e0cd895ea11a2ac22b7b97d94c1e22074f0a36b673e3d5b1_1280.jpg");
+  background-position: 50% 50%;
+  transition-duration: 0.5s;
+  margin: 4px auto 0;
+}
+
+.u-section-1 .u-text-5 {
+  margin: 16px 0 0;
+}
+
+.u-section-1 .u-text-6 {
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-btn-3 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-4 {
+  height: 213px;
+  width: 213px;
+  background-image: url("../images/fb6a4dcd910301f0e24ce2734d0627c1fd6d782f8a7854d65387cd0972a74d6cb9fbbbcc88ca553cef28bac7f417e206deaeff53d30e16f4c7ec7d_1280.jpg");
+  background-position: 50% 50%;
+  transition-duration: 0.5s;
+  margin: 4px auto 0;
+}
+
+.u-section-1 .u-text-7 {
+  margin: 16px 0 0;
+}
+
+.u-section-1 .u-text-8 {
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-btn-4 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-5 {
+  height: 213px;
+  width: 213px;
+  background-image: url("../images/d081420909f3473210004455bd18494b5ef36d371e02e3a9a7cfbbe1a838707286eeb6204fb88f67d55b39d4997da93965e8df4dc2130f6846b404_1280.jpg");
+  background-position: 50% 50%;
+  transition-duration: 0.5s;
+  margin: 4px auto 0;
+}
+
+.u-section-1 .u-text-9 {
+  margin: 16px 0 0;
+}
+
+.u-section-1 .u-text-10 {
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-btn-5 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-gallery-nav-1 {
+  position: absolute;
+  left: 10px;
+  width: 20px;
+  height: 20px;
+}
+
+.u-section-1 .u-gallery-nav-2 {
+  position: absolute;
+  right: 10px;
+  width: 20px;
+  height: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-list-1 {
+    height: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 165px;
+    width: 165px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 165px;
+    width: 165px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 165px;
+    width: 165px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+
+  .u-section-1 .u-image-4 {
+    height: 165px;
+    width: 165px;
+  }
+
+  .u-section-1 .u-text-8 {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+
+  .u-section-1 .u-image-5 {
+    height: 165px;
+    width: 165px;
+  }
+
+  .u-section-1 .u-text-10 {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 12px;
+    margin-right: 12px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 12px;
+    margin-right: 12px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-left: 12px;
+    margin-right: 12px;
+  }
+
+  .u-section-1 .u-text-8 {
+    margin-left: 12px;
+    margin-right: 12px;
+  }
+
+  .u-section-1 .u-text-10 {
+    margin-left: 12px;
+    margin-right: 12px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 9px;
+    margin-right: 9px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 9px;
+    margin-right: 9px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-left: 9px;
+    margin-right: 9px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-8 {
+    margin-left: 9px;
+    margin-right: 9px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-10 {
+    margin-left: 9px;
+    margin-right: 9px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+
+  .u-section-1 .u-text-8 {
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+
+  .u-section-1 .u-text-10 {
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+}
+
+.u-section-1 .u-image-1,
+.u-section-1 .u-image-1:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-1:before {
+  background-image: url(np://app.desktop.nicepage.com/images/default-image.jpg?rand=5ea7) !important;
+}
+
+.u-section-1 .u-image-2,
+.u-section-1 .u-image-2:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-2:before {
+  background-image: url(np://app.desktop.nicepage.com/images/default-image.jpg?rand=5ea7) !important;
+}
+
+.u-section-1 .u-image-3,
+.u-section-1 .u-image-3:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-3:before {
+  background-image: url(np://app.desktop.nicepage.com/images/default-image.jpg?rand=5ea7) !important;
+}
+
+.u-section-1 .u-image-4,
+.u-section-1 .u-image-4:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-4:before {
+  background-image: url(np://app.desktop.nicepage.com/images/default-image.jpg?rand=5ea7) !important;
+}
+
+.u-section-1 .u-image-5,
+.u-section-1 .u-image-5:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-image-5:before {
+  background-image: url(np://app.desktop.nicepage.com/images/default-image.jpg?rand=5ea7) !important;
+}
